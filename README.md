@@ -18,16 +18,12 @@ git clone https://github.com/krigjo25/console-bank-py.git
 cd console-bank-py
 ```
 
-```sh
-python bank.py
-```
-
 ##  Usage
 
 To use the application, run the following command in your terminal
 
 ```sh
-python app.py <your text>
+python bank.py <your text>
 ```
 Replace `<your text>` with the desired text
 
