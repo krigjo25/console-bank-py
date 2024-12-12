@@ -3,7 +3,7 @@
 The application is based on the sketch [Seinfield Bank Retention Pledge Must Say Hello 100 Dollars](https://www.youtube.com/watch?v=IN6cJ_wGmsk) 
 
 The application was implemented as an assignment at CS50P
-Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.
+Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.<br>
 A demo of the application can be watched at [youtube](https://www.youtube.com/watch?v=jHZuzD4f4rg)
 
 ## Installation
