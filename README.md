@@ -1,9 +1,11 @@
-# Bank
+# Bank Retention Pledge Must Say Hello 100 Dollars
 
 ## Overview
-The program is based on a sketch from [Seinfield Bank Retention Pledge Must Say Hello 100 Dollars](https://www.youtube.com/watch?v=IN6cJ_wGmsk) where basic coding in python is introduced.
+The program is based on a sketch from [Seinfield Bank Retention Pledge Must Say Hello 100 Dollars](https://www.youtube.com/watch?v=IN6cJ_wGmsk) 
+where basic coding in python is introduced.
 
-Usage : 
+## Video Demo :
+[Bank Retention Pledge Must Say Hello 100 Dollars](https://www.youtube.com/watch?v=jHZuzD4f4rg)
 ```sh
 python bank.py
 ```
