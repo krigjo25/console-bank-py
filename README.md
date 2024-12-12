@@ -32,7 +32,7 @@ Replace `<your text>` with the desired text
 ```sh
 python bank.py
 
-prompt : Greetings : text
+prompt : Greetings : Wazzap
 output : $100
 
 prompt : Greetings : hey
