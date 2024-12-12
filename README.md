@@ -35,10 +35,10 @@ python bank.py
 prompt : Greetings : text
 output : $100
 
-output : Greetings : hey
+prompt : Greetings : hey
 output : $20
 
-output : Greetings : Hello
+prompt : Greetings : Hello
 output : $0 
 ```
 
